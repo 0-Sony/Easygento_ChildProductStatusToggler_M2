@@ -1,5 +1,5 @@
 {
-    "name": "easygento/magento2-child-products-status-toggler",
+    "name": "easygento/magento2-child-product-status-toggler",
     "description": "Toggle the child product status according to the configurable product during its save ",
     "authors": [
         {
